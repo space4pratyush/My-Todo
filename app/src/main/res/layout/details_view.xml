@@ -12,6 +12,13 @@
             android:textSize="25sp"
             android:hint="Title"
             android:padding="10dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/carddescription"
+            android:textSize="20sp"
+            android:hint="Description"
+            android:padding="10dp"
             />
     </LinearLayout>
 
